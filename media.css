@@ -98,3 +98,28 @@
 .button:active {
     background-color: #004494;     /* Darkens further when the button is active (clicked) */
 }
+
+@media (max-width:1150px) {
+    .pro-img{
+        width: 0;
+        height: 0;
+    }
+    
+    
+}
+@media (max-width:716px){
+    .not{
+      display: none;
+    }
+}
+@media (max-width:310){
+    .navbar {
+        background-color: #0F0A00;
+        width:fit-content;
+    }
+}
+@media(max-width:480px){
+    .contact-info{
+        flex-wrap: wrap;
+    }
+}
