@@ -8,7 +8,7 @@ function validateForm() {
 
     // Replace these with your own logic to validate credentials
     const validUsername = 'amshu god';
-    const validPassword = 'divan is gay';
+    const validPassword = 'sushant';
 
     if (username === validUsername && password === validPassword) {
         window.location.href = 'home-la-la.html'; // Redirect to desired URL
