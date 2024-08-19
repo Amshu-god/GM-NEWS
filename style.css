@@ -243,4 +243,10 @@ margin: 1vh;
 .tear1{
    flex-wrap: wrap;
 }
+    .animated-border-div{
+  margin: 0;
+  width: auto;
+  align-self: center;
+  align-items: center;
+}
   }
