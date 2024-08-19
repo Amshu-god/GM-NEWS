@@ -249,4 +249,11 @@ margin: 1vh;
   align-self: center;
   align-items: center;
 }
+    .image{
+  height: 50%;
+}
+.content{
+  display:block;
+  align-items: center;
+}
   }
